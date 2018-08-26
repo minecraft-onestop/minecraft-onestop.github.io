@@ -37,7 +37,7 @@ p, a {
   font-family: Arial;
   margin: 0;
 }
-.navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
+.nav a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
   background-color: #00b300;
 }
 .dropdown-content {
